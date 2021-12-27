@@ -1,0 +1,26 @@
+.mainDIv{
+    display: flex;
+    justify-content: space-between;
+}
+
+.leftDiv h2 {
+    font-size: 30px;
+    text-align: center;
+}
+.leftDiv p {
+    width: 600px;
+    font-size: 14.5px;
+    box-shadow: 0.5em 0.5em 1em;
+}
+
+.image-wrap{
+    width: 600px;
+    margin-right: 50px;
+}
+section{
+    margin-left: 50px;
+}
+
+.secondDiv h2{
+    padding-left: 35%;
+}

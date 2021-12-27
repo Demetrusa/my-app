@@ -1,0 +1,19 @@
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+
+}
+li{
+    letter-spacing: 0.2rem;
+    padding-left: 50px;
+    padding-top: 15px;
+}
+ul li a{
+    text-decoration: none;
+}
+a{
+    font-size: 25px;
+    color: black;
+    font-family: bold;
+}
